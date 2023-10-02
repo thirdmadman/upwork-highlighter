@@ -1,0 +1,25 @@
+{
+  "name": "upwork-highlighter",
+  "version": "1.0.0",
+  "description": "Upwork highlighter extension for Google Chrome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thirdmadman/upwork-highlighter.git"
+  },
+  "keywords": [
+    "js",
+    "frontend",
+    "password-generator",
+    "google-chrome-extension"
+  ],
+  "author": "thirdmadman",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/thirdmadman/upwork-highlighter/issues"
+  },
+  "homepage": "https://github.com/thirdmadman/upwork-highlighter#readme"
+}
